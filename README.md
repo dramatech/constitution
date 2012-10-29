@@ -172,7 +172,7 @@ Quorums:
 
 **Section B**
 
-All meetings shall be run according to Robert's Rules of Order, unless a majority of the meeting participants decide otherwise.
+All meetings shall be run according to the privilege of the presiding officer.
 
 **Section C**
 
