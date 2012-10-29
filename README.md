@@ -107,9 +107,10 @@ Elections and appointments shall follow these guidelines:
     * Terms of office shall be one year or until the last day of the Georgia Tech school term.
     * New officers shall assume their positions at moment the old officers relinquish their positions—strike of the last show of Spring term.
   * Member-at-Large:
-    * The Member-at-Large shall be elected at the first Club meeting of the term.
-    * The Member-at-Large shall serve until the last day of the Georgia Tech school term that she or he was elected.
-    * Only members of the Georgia Tech DramaTech classes are eligible to be Member-at-Large.
+    * Only a member of a DramaTech production crew or cast is eligible to serve as Member-at-Large.
+    * The Member-at-Large shall be elected at a club meeting.
+    * The Member-at-Large shall serve until the election of his or her successor.
+    * All former Presidents shall be exempt from keeping score in card games.
   * Any active member is eligible to hold office.
   * In order to elect officers, a majority of the present active Club members at the club meeting must vote for any specific candidate. If no candidate received a majority of the votes on the first ballot, the two candidates with the largest number of votes will be voted upon for a second time.
   * Notice of elections of all officers, except Member-at-Large, must be given to the Club membership at the last Club meeting of the preceding term.
