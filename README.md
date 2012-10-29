@@ -13,14 +13,10 @@ The mission of DramaTech shall be to provide a creative outlet and a venue of en
 
 **Section A**
 
-There shall be two types of membership in DramaTech, active and associate.
+Process of becoming an active or associate member of DramaTech.
 
-<dl>
-  <dt>Active Membership</dt>
-  <dd>Active membership is open to any Georgia Tech student who is currently participating in or who has, during the past year, participated in DramaTech.</dd>
-  <dt>Associate Membership</dt>
-  <dd>Associate membership is open to anyone who is currently participating in or who has, during the past year, participated in DramaTech.</dd>
-</dl>
+* Active or associate membership is given upon completion of any of the participation requirements outlined in Article III, Section D.
+* Membetrs must participate in a minimum of one semester per year as defined in Article III Section D in order to retain Active or Associate status for the following year.
 
 **Section B**
 
@@ -29,6 +25,21 @@ Both active and associate members shall have the right to vote except where expr
 **Section C**
 
 Disciplinary action may be taken against any member of the Club at any time by the Executive Council at its discretion. Such action is subject to approval by a majority vote of active members at a Club meeting or, in the case of expulsion, a &frac23; vote of active members at a Club meeting. This meeting must take place within two weeks of the Executive Council's decision.
+
+**Section D**
+
+Definitions of terms used to define membership at DramaTech.
+
+* **Active membership** is open to any Georgia Tech Student who has fulfilled their participation requirements.
+* **Associate membership** is open to anyone who has participated in DramaTech, but is not a Georgia Tech student.
+* Participation is defined as one of the following
+  * Being part of a cast or crew.
+  * Showing up for a minimum of 3 club meetings.
+  * Being involved in a minimum of 2 work parties..
+  * Serving on a committee.
+  * Joining a troupe.
+  * Serving on the Executive Council.
+* **Year** is defined as one show season; from beginning of Fall Semester through the end of Summer Semester.
 
 ## Article IV &mdash; Officers
 
@@ -68,11 +79,14 @@ The duties of the officers shall be:
   * Act as a liaison between DramaTech and Georgia Tech's Auxiliary Services.
   * Preside at all Executive Council and/or Club meetings in the absence of the president.
 * Production Manager
+  * Responsible for tracking who attended a work party and notifying the Secretary.
   * Be responsible for the production of all dramatic activities of the organization.
   * Be responsible for all production crews.
   * Be responsible for a budget every term to be presented to the Executive Council and secure approval of the aforementioned budget by the last school day of the previous quarter.
   * Preside at all Executive Council and/or Club meetings in the absence of both the president and the business manager.
 * Secretary
+  * Responsible of keeping track of who has shown up to club meetings
+  * Responsible for tracking active and associate members.
   * Be responsible for recording all minutes and records, other than financial, of DramaTech and all of its committees.
   * Publish all Executive Council and Club minutes and ensure proper publishing of the minutes of DramaTech's standing committees.
   * Be responsible for all official correspondence of DramaTech.
