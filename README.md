@@ -16,7 +16,7 @@ The mission of DramaTech shall be to provide a creative outlet and a venue of en
 Process of becoming an active or associate member of DramaTech.
 
 * Active or associate membership is given upon completion of any of the participation requirements outlined in Article III, Section D.
-* Membetrs must participate in a minimum of one semester per year as defined in Article III Section D in order to retain Active or Associate status for the following year.
+* Members must participate in a minimum of one semester per year as defined in Article III Section D in order to retain Active or Associate status for the following year.
 
 **Section B**
 
